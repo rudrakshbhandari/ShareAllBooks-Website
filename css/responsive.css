@@ -178,8 +178,8 @@
     }
     .mainmenu-area #primary_menu ul.nav.navbar-nav li.active a,
     .mainmenu-area #primary_menu ul.nav.navbar-nav li a:hover {
-        background-color: #ffffff;
-        color: #e35d5b;
+        background-color: #FAF9F6;
+        color: #43AA8B;
     }
     /*-- Home-Area --*/
     .home-area {
