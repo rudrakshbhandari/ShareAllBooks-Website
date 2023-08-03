@@ -253,10 +253,10 @@ input:-webkit-autofill:focus {
     background: "#e53935";
     /* Old browsers */
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #e53935 0%, #f22b27 100%);
+    background: -webkit-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: -o-linear-gradient(45deg, #e53935 0%, #f22b27 100%);
-    background: linear-gradient(45deg, #e53935 0%, #f22b27 100%);
+    background: -o-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
+    background: linear-gradient(45deg, #43AA8B 0%, #097969 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e53935', endColorstr='#f22b27', GradientType=1);
     opacity: 0.8;
@@ -317,9 +317,9 @@ input:-webkit-autofill:focus {
     width: 100%;
     height: 100%;
     background: #e35d5b;
-    background: -webkit-linear-gradient(45deg, #e35d5b) 0%, #f26f6d 100%);
-    background: -o-linear-gradient(45deg, #e35d5b 0%, #f26f6d 100%);
-    background: linear-gradient(45deg, #e35d5b 0%, #f26f6d 100%);
+    background: -webkit-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
+    background: -o-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
+    background: linear-gradient(45deg, #43AA8B 0%, #097969 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e35d5b', endColorstr='#f26f6d', GradientType=1);
     z-index: -1;
     opacity: 0;
