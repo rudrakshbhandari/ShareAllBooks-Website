@@ -878,7 +878,7 @@ input:-webkit-autofill:focus {
     text-align: center;
     line-height: 60px;
     font-size: 30px;
-    color: #f75e5c;
+    color: #097969;
 }
 
 .preloader {
@@ -896,7 +896,7 @@ input:-webkit-autofill:focus {
     background: -webkit-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
     background: -o-linear-gradient(45deg, #43AA8B 0%, #097969 100%);
     background: linear-gradient(45deg, #43AA8B 0%, #097969 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43AA8B', endColorstr='#f75e5c', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43AA8B', endColorstr='#097969', GradientType=1);
     border-radius: 100%;
     height: 60px;
     width: 60px;
@@ -916,47 +916,47 @@ input:-webkit-autofill:focus {
 
 @-webkit-keyframes mymove {
     0 {
-        -webkit-box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
-        box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
+        -webkit-box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
+        box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
     }
     25% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
     }
     50% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 20px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 20px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 20px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 20px #097969;
     }
     75% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
     }
     100% {
-        -webkit-box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
-        box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
+        -webkit-box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
+        box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
     }
 }
 
 @keyframes mymove {
     0 {
-        -webkit-box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
-        box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
+        -webkit-box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
+        box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
     }
     25% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
     }
     50% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 20px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 20px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 20px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 20px #097969;
     }
     75% {
-        -webkit-box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
-        box-shadow: 0 0 0 10px #f75e5c, 0 0 0 10px #f75e5c;
+        -webkit-box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
+        box-shadow: 0 0 0 10px #43AA8B, 0 0 0 10px #097969;
     }
     100% {
-        -webkit-box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
-        box-shadow: 0 0 0 0 #f75e5c, 0 0 0 0 #f75e5c;
+        -webkit-box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
+        box-shadow: 0 0 0 0 #43AA8B, 0 0 0 0 #097969;
     }
 }
 
